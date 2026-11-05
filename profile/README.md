@@ -36,7 +36,7 @@
 - **What’s using this file.** See which programs hold a file or folder, and close them from there.
 - **Only the folders you choose,** on any drive in your computer.
 - **Locks and delete alerts.** Lock a tracked folder against deletes, get a notification naming the program that’s deleting its files, or both.
-- **Your history stays on your computer.** Only two checks go online: the update check and the license check.
+- **Your history stays on your computer, encrypted.** Only two checks go online: the update check and the license check.
 
 ## Price
 
