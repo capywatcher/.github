@@ -40,7 +40,7 @@
 
 ## Price
 
-Try it free for 7 days. Then $29 a year until you cancel, or $49 once, for up to 3 computers.
+Try it free for 7 days. Then $49 once for up to 3 computers, or the Flexible plan from $13.30 a computer, paid once.
 
 ## Links
 
