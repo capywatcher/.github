@@ -11,7 +11,7 @@
 
   <p>For people who run AI coding agents such as Claude Code, Codex or Cursor, for Windows power users with mystery files, and for anyone who wants to know which installer, game or download put a file on their computer.</p>
 
-  <p><a href="https://capywatcher.com/en/download">Download the free trial</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/en/pricing">See pricing</a> &nbsp;·&nbsp; <a href="https://github.com/capywatcher/capywatcher">See every feature</a></p>
+  <p><a href="https://capywatcher.com/en/download">Download the free trial</a> &nbsp;·&nbsp; <a href="https://capywatcher.com/en/pricing">See pricing</a> &nbsp;·&nbsp; <a href="https://github.com/capywatcher/capywatcher">See all features</a></p>
 
   <p>Windows 11, or Windows 10 version 1803 or later, 64-bit (x64). Free for 7 days, with no card and no email.</p>
 
