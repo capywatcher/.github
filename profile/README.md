@@ -46,6 +46,6 @@ Try it free for 7 days. Then $49 once for up to 3 computers, or the Flexible pla
 
 ## Links
 
-[capywatcher.com](https://capywatcher.com) · [Release notes](https://capywatcher.com/en/release-notes) · [Blog](https://capywatcher.com/en/blog) · [RSS feed](https://capywatcher.com/en/release-notes/rss.xml) · [support@capywatcher.com](mailto:support@capywatcher.com) · [@CapyWatcherApp on X](https://x.com/CapyWatcherApp)
+[capywatcher.com](https://capywatcher.com) · [Release notes](https://capywatcher.com/en/release-notes) · [Blog](https://capywatcher.com/en/blog)
 
 <p align="center">Made by Admiral Capy &nbsp;·&nbsp; <a href="https://x.com/AdmiralCapy"><img src="https://img.shields.io/badge/X-AdmiralCapy-000000?style=flat-square&logo=x&logoColor=white" alt="Follow @AdmiralCapy on X"></a> &nbsp;·&nbsp; <a href="https://capywatcher.com/en/about">About the maker</a></p>
